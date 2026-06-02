@@ -12,7 +12,6 @@ function App() {
       <Routes>
         <Route path="/" element={<Home/>} />
       </Routes>
-    <h1>check</h1>
 
     </BrowserRouter>
 
