@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 
 function App() {
   return(
+
     <BrowserRouter>
       <Navbar/>
 
@@ -13,6 +14,8 @@ function App() {
       </Routes>
 
     </BrowserRouter>
+
+    
   );
 }
 
